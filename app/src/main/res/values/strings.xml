@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">EvolutionGameMax</string>
+    <string name="welcome_to_evolutiongamemax">Welcome To EvolutionGameMax !</string>
+    <string name="loading">Loading...</string>
+</resources>
